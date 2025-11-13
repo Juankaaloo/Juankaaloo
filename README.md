@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A4604,100:091519&height=150&text=Hi,%20I'm%20Juankaaloo&fontSize=50&fontColor=FFEAAB&fontAlignY=45&animation=twinkling&desc=Programer%20%|%20Frontend%20|%20Backend&descSize=27&descAlignY=85&section=header" />
 
-### 🚀 Future Information Engineer
+### 🚀 Future computer engineer
 
 ---
 
