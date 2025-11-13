@@ -25,9 +25,13 @@
 ---
 
 ### 🧠 About Me
-🌱 Currently diving deep into **C programming, algorithms & problem solving**  
-🎯 Preparing to join **42** and level up my coding journey  
-⚡ I love challenges and learning by my own or peer to peer
+🌱 Currently diving deep into **Pyhton, React, Kotlin**  
+🎯 Preparing to join **University** 
+<br>
+🦇 I am **Batman**
+<br>
+<br>
+<img align="center" height="150" src="./Khabib.gif">
 
 ---
 
