@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hi,%20I'm%20Juankaaloo&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=Programer%20%|%20Frontend%20|%20Backend&descSize=27&descAlignY=85&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A4604,100:091519&height=150&text=Hi,%20I'm%20Juankaaloo&fontSize=50&fontColor=FFEAAB&fontAlignY=45&animation=twinkling&desc=Programer%20%|%20Frontend%20|%20Backend&descSize=27&descAlignY=85&section=header" />
 
 ### 🚀 Future Information Engineer
 
@@ -37,7 +37,7 @@
 
 ### 📊 GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=Juankaaloo&show_icons=true&theme=radical&title_color=61DAFB&icon_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false" height="170em"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Juankaaloo&show_icons=true&theme=radical&title_color=FFEAAB&icon_color=FFEAAB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=8A4604&hide_border=false" height="170em"/>
 <img src="https://streak-stats.demolab.com?user=Juankaaloo&theme=radical&hide_border=false&background=0,000000,091519&currStreakLabel=61DAFB&ring=3a8296&fire=61DAFB&sideLabels=61DAFB" height="170em"/>
 
 ---
@@ -46,7 +46,7 @@
 <p align="center">
 
   <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juankaaloo&layout=compact&langs_count=8&theme=radical&title_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false&custom_title=Most%20Used%20Languages" height="170em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juankaaloo&layout=compact&langs_count=8&theme=radical&title_color=C8E1FF&text_color=C8E1FF&bg_color=0,091519,000000&border_color=8A4604&hide_border=false&custom_title=Most%20Used%20Languages" height="170em" />
 
 </p>
 
