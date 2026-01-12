@@ -1,99 +1,143 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A4604,100:091519&height=150&text=Hi,%20I'm%20Juankaaloo&fontSize=50&fontColor=FFEAAB&fontAlignY=45&animation=twinkling&desc=Programer%20%|%20Frontend%20|%20Backend&descSize=27&descAlignY=85&section=header" />
+<!-- Header animado -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=%C2%A1Hola!+Soy+Juankaalo+%F0%9F%91%8B;Estudiante+de+DAM+%F0%9F%93%B1;Desarrollador+en+formaci%C3%B3n+%F0%9F%9A%80;Apasionado+por+la+tecnolog%C3%ADa+%F0%9F%92%BB)](https://git.io/typing-svg)
 
-### 🚀 Future computer engineer
+<!-- Banner o imagen de perfil -->
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
----
-
-### 🧠 Skills
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,cs,js,html,css,php,mysql,php.mysql&theme=light" />
-  </a>
-</p>
-
----
-
-### ⚙️ Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,git,github,discord,&theme=light" />
-  </a>
-</p>
-
----
-
-### 🧠 About Me
-🌱 Currently diving deep into **Pyhton, React, Kotlin**  
-🎯 Preparing to join **University** 
 <br>
-🦇 I am **Batman**
-<br>
-<br>
-<img align="center" height="150" src="./Khabib.gif">
 
----
-
-### 📊 GitHub Statistics
-
-<img src="https://github-readme-stats.vercel.app/api?username=Juankaaloo&show_icons=true&theme=radical&title_color=FFEAAB&icon_color=FFEAAB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=8A4604&hide_border=false" height="170em"/>
-<img src="https://streak-stats.demolab.com?user=Juankaaloo&theme=radical&hide_border=false&background=0,000000,091519&currStreakLabel=61DAFB&ring=3a8296&fire=61DAFB&sideLabels=61DAFB" height="170em"/>
-
----
-
-### 🧩 Most Used Languages & Top Repos
-<p align="center">
-
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juankaaloo&layout=compact&langs_count=8&theme=radical&title_color=C8E1FF&text_color=C8E1FF&bg_color=0,091519,000000&border_color=8A4604&hide_border=false&custom_title=Most%20Used%20Languages" height="170em" />
-
-</p>
-
----
-
-## ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0:3a8296,100:000000&border_color=61DAFB&text_color=61DAFB" />
-</p>
-
-💡— Tito Calderon  
-
----
-
-### 🐍 Contribution Snake
-<p align="center">
-<img src="https://github.com/Juankaaloo/Juankaaloo/blob/output/snake.svg" alt="Snake animation" />
-</p>
-
----
-
-### 📬 Connect with Me  
-# In progress ...
-<p align="center">
-  <a href="https://github.com/Juankaaloo">
-    <img src="https://komarev.com/ghpvc/?username=Juankaaloo&color=3a8296&label=Profile%20Views" />
-  </a>
-  <a href="https://github.com/Juankaaloo">
-    <img src="https://img.shields.io/github/followers/Juankaaloo?label=GitHub%20Followers&color=3a8296&style=flat" />
-  </a>
-</p>
+<!-- Badges de redes sociales -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
+[![GitHub followers](https://img.shields.io/github/followers/Juankaalo?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=181717)](https://github.com/Juankaalo)
+[![Profile Views](https://komarev.com/ghpvc/?username=Juankaalo&style=for-the-badge&color=6C63FF)](https://github.com/Juankaalo)
 
 </div>
 
+---
 
-<!--
-Deisngs That I like
-Thx so much Saboo24 I inspire my README.md in yours <3
-<p align="center">
-  <a href="mailto:aminehamzaoui1926@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-091519?style=for-the-badge&logo=gmail&logoColor=61DAFB" />
-  </a>
-  <a href="https://www.linkedin.com/in/mohamed-amine-hamzaoui-a2453a35b">
-    <img src="https://img.shields.io/badge/LinkedIn-091519?style=for-the-badge&logo=linkedin&logoColor=61DAFB" />
-  </a>
-  <a href="https://discord.com/users/805123459566010417">
-    <img src="https://img.shields.io/badge/Discord-091519?style=for-the-badge&logo=discord&logoColor=61DAFB" />
-  </a>
-</p>
--->
+## 🧑‍💻 Sobre mí
+
+```javascript
+const juankaalo = {
+    ubicacion: "España 🇪🇸",
+    estudios: "Desarrollo de Aplicaciones Multiplataforma (DAM)",
+    objetivo: "Entrar a la universidad y seguir creciendo como desarrollador",
+    filosofia: "Quieres ser un joseador, sal y josea 💪",
+    aprendiendo: ["Nuevos lenguajes", "Nuevas tecnologías", "Siempre evolucionando"],
+    hobbies: ["Programar", "Aprender", "Explorar nuevas tecnologías"]
+};
+```
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 💻 Lenguajes de Programación
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![XML](https://img.shields.io/badge/XML-005FAD?style=for-the-badge&logo=xml&logoColor=white)
+
+### 🔧 Herramientas & IDEs
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio_2022-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### 📱 Desarrollo Móvil
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Juankaalo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juankaalo&layout=compact&langs_count=8&theme=tokyonight&border_radius=10"/>
+
+</div>
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Juankaalo&theme=tokyonight&border_radius=10)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 📈 Actividad
+
+<div align="center">
+
+[![Juankaalo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Juankaalo&theme=tokyo-night&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🎯 Objetivos 2024-2025
+
+<div align="center">
+
+| Meta | Estado |
+|:----:|:------:|
+| 🎓 Completar DAM | 🔄 En progreso |
+| 🏫 Entrar a la Universidad | 🎯 Próximo objetivo |
+| 📚 Aprender nuevos lenguajes | 🔄 Siempre aprendiendo |
+| 💼 Primeras experiencias laborales | 🎯 En búsqueda |
+| 🚀 Contribuir a proyectos Open Source | 🎯 Próximamente |
+
+</div>
+
+---
+
+## 💭 Mi Filosofía
+
+<div align="center">
+
+> ### *"Quieres ser un joseador, sal y josea"* 💪
+> 
+> El éxito no viene solo, hay que salir a buscarlo.
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+</div>
+
+---
+
+## 🤝 Conectemos
+
+<div align="center">
+
+¿Tienes algún proyecto interesante? ¿Quieres colaborar? ¡No dudes en contactarme!
+
+[![LinkedIn](https://img.shields.io/badge/Conecta_conmigo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
+[![Email](https://img.shields.io/badge/Envíame_un_email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@ejemplo.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Si te gusta mi trabajo, ¡dale una estrella a mis repos!
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+
+</div>
