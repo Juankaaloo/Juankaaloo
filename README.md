@@ -18,19 +18,27 @@
 ---
 
 ## 🧑‍💻 Sobre mí
-ubicacion: "España 🇪🇸",
-estudios: "Desarrollo de Aplicaciones Multiplataforma (DAM)",
-objetivo: "Entrar a la universidad y seguir creciendo como desarrollador",
-aprendiendo: ["Nuevos lenguajes", "Nuevas tecnologías", "Siempre evolucionando"],
-hobbies: ["Programar", "Aprender", "Explorar nuevas tecnologías"]
-<br>
-🦇 I am **Batman**
-<br>
-<br>
-<img align="center" height="150" src="./Khabib.gif">
 
 <div align="center">
+
+📍 **Ubicación:** España 🇪🇸
+<br>
+📚 **Estudios:** Desarrollo de Aplicaciones Multiplataforma (DAM)
+<br>
+🎯 **Objetivo:** Entrar a la universidad y seguir creciendo como desarrollador
+<br>
+🌱 **Aprendiendo:** Nuevos lenguajes | Nuevas tecnologías | Siempre evolucionando
+<br>
+💻 **Hobbies:** Programar | Aprender | Explorar nuevas tecnologías
+<br><br>
+🦇 I am **Batman**
+<br><br>
+<img height="150" src="./Khabib.gif">
+
+<br>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
+
 </div>
 
 ---
